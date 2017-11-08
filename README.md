@@ -2,7 +2,7 @@
 
 1. [Course Overview](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/intro.md) 
 2. [IDE Battle](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/IDE-battle.md)
-3. [GIT Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md) 
+3. [GIT Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md) (no content in depth)
 4. [Basic Algorithms](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/basic-algorithms.md)
 5. [HTML & CSS Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md)
 6. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
