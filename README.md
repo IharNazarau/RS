@@ -7,7 +7,7 @@
 5. [HTML & CSS Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md)
 6. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
 7. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
-8. [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md)
+8. [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md) (no content in depth)
 9. [CSS Recipies and Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
 10. [Photoshop basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/photoshop-basics.md)
 11. [JS Intro](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-intro.md)
@@ -20,4 +20,4 @@
 18. [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
 19. [DOM](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom.md)
 20. [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
-21. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
+21. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md) Why together (event loop[js] & animations[css]) ?
